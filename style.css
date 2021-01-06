@@ -109,3 +109,15 @@ footer{
     padding-top: 8%;
     text-align: center;
 }
+.group-1 h2{
+    position: relative;
+    bottom: 39%;
+    right: 18%;
+    color: white;
+    font-size: 40px;
+}
+.group-1 a{
+    position: relative;
+    bottom: 53%;
+    left: 20%;
+}
