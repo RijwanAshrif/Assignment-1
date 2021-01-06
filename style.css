@@ -4,7 +4,7 @@ body{
 }
 
 .nav-link{
-    color: black;
+    color: orange;
     float: right;
     padding-left: 20px;
     margin-left: 10px;
@@ -13,6 +13,7 @@ body{
 .nav-bar{
     padding-right: 10%;
     padding-top: 2%;
+    font-size: 25px;
 }
 
 h1{
