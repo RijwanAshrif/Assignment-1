@@ -121,3 +121,19 @@ footer{
     bottom: 53%;
     left: 20%;
 }
+.bottom{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.bottom img{
+    width: 50px;
+}
+.connect{
+    text-align: center;
+}
+.connect p{
+    font-size: 40px;
+}
+.connect1{
+    text-align: center;
+}
